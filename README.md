@@ -1,5 +1,7 @@
 Moodle Block Scratch Pad is based on rough work concept.
 
+Move and rename the folder as your_moodle_folder/blocks/scratch_pad/
+
 ![alt tag](https://raw.githubusercontent.com/razzul/moodle_block_scratch_pad/master/pix/scratch_pad_1.png)
 ![alt tag](https://raw.githubusercontent.com/razzul/moodle_block_scratch_pad/master/pix/scratch_pad_2.png)
 ![alt tag](https://raw.githubusercontent.com/razzul/moodle_block_scratch_pad/master/pix/scratch_pad_3.png)
