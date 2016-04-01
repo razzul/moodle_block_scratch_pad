@@ -1,0 +1,20 @@
+.block_scratch_pad .content {padding:10px;}
+.block_scratch_pad .editbutton {text-align:right;}
+.block_scratch_pad a {
+    cursor: pointer;
+}
+.tools {
+    margin-bottom: 5px;
+    display: none;
+}
+.tools a {
+    border: 1px solid black;
+    line-height: 30px;
+    padding:10px;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+}
