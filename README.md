@@ -1,4 +1,4 @@
-Moodle Block Scratch Pad is based on rough work concept.
+#Moodle Block Scratch Pad is based on rough work concept.
 
 Move and rename the folder as your_moodle_folder/blocks/scratch_pad/
 
